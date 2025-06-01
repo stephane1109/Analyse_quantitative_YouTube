@@ -1,0 +1,9 @@
+[sqlite]
+# Chemin vers votre fichier SQLite
+chemin = "le_chemin_du_repertoire_de_votre_bdd/stats_youtube.sqlite"
+
+[youtube]
+# Clé API YouTube
+api_key  = "Votre_clé_API_YouTube_V3"
+# ID de la vidéo à analyser
+video_id = "ZplUZ37XbFs" # l'ID de votre vidéo
